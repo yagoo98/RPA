@@ -1,5 +1,5 @@
 package com.emprogria.rpa.SOE;
 
 public class HAHA {
-    String hello = "HELLO!";
+    String hello = "HI!";
 }
